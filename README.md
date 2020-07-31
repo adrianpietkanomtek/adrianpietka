@@ -1,6 +1,6 @@
 # Hi, my name is Adrian Pietka 😎 👋
 
-💻 I am **Software Engineer** who love code architecture. I am **fan of CQRS and Hexagonal Architecture** but it isn't only my one silver bullet for all problems to solve.
+💻 I am **Software Engineer** who love code architecture. I am **fan of CQRS and Hexagonal Architecture** but it isn't only my one silver bullet to solve problems.
 
 🎨 My current tool setup are: **TypeScript** / **JavaScript** / **Node.js** / **Docker** / **AWS**. Sometimes I must touch other programming languages like C# or PHP. I'm not ashamed of that, becouse I try get all positive things from different solutions to **build best software for customer**.
 
@@ -16,16 +16,16 @@
 
 ### In English
 
-- I publish articles on *DEV.TO* profile: https://dev.to/adrianpietka
-- Make code and publish it on GitHub: https://github.com/adrianpietka
+- *DEV.TO* profile: https://dev.to/adrianpietka
+- GitHub repository: https://github.com/adrianpietka
 
 ## In Polish
 
-- Writting articles: https://devenv.pl/
-- Creating videos: https://www.youtube.com/channel/UCS7b5QmRNxVOa7MHklWO5nw
-- Recording podcasts: https://open.spotify.com/show/1c75ktJFLeWlL4SACikIg8
+- Articles: https://devenv.pl/
+- Videos: https://www.youtube.com/channel/UCS7b5QmRNxVOa7MHklWO5nw
+- Podcasts: https://open.spotify.com/show/1c75ktJFLeWlL4SACikIg8
 
 ## Currently mixed
 
-- LinedIn: https://www.linkedin.com/in/adrianpietka/
+- LinkedIn: https://www.linkedin.com/in/adrianpietka/
 - Twitter: https://twitter.com/adrian_pietka
